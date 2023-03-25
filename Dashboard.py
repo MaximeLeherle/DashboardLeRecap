@@ -16,5 +16,8 @@ def get_winner(row):
 # Application de la fonction sur chaque ligne du DataFrame pour créer la colonne "Victoire"
 df["Victoire"] = df.apply(get_winner, axis=1)
 
-# Affichage du DataFrame avec la nouvelle colonne
-print(df)
+# Affichage du titre
+st.title("Bilan du quizz de JiJi 2023")
+
+# Affichage du DataFrame
+st.write(df)
