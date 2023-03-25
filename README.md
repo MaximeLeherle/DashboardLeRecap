@@ -16,7 +16,7 @@ Scores des participants: Le dashboard affiche les scores des participants pour c
 
 Analyse des erreurs: Le dashboard peut identifier les questions les plus difficiles pour les participants et les erreurs les plus courantes.
 
-#À propos du projet
+# À propos du projet
 Ce projet a été réalisé par LEHERLE Maxime. Il est basé sur les données du quiz de jiji de l'émission LeRecap de la chaîne Twitch LeStream.
 
 Si vous avez des questions ou des commentaires sur le dashboard, n'hésitez pas à me contacter a l'adresse mail suivante : maximeleherle@gmail.com.
