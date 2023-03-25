@@ -1,10 +1,6 @@
+import pandas as pd
+import numpy as np
 import streamlit as st
 
-# Titre de l'application
-st.title("Mon application Streamlit")
-
-# Sous-titre
-st.subheader("Introduction")
-
-# Paragraphe de texte
-st.write("Bienvenue dans mon application Streamlite !")
+# Charger le fichier CSV dans un dataframe Pandas
+df = pd.read_csv("datav3.csv", delimiter=";")
